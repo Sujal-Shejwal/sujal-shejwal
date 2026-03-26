@@ -19,7 +19,7 @@ Projects:
 - Task Workspace (Task Management App)
 
 LinkedIn:
-https://www.linkedin.com/in/your-link
+LinkedIn: https://www.linkedin.com/in/sujal-shejwal-76b369259
 
 GitHub:
 https://github.com/Sujal-Shejwal
