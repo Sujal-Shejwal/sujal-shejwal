@@ -1,27 +1,56 @@
 Hi, I'm Sujal Shejwal
 
-B.Tech IT Student | MERN Stack Developer | DSA in Java
+B.Tech Information Technology Student | Full Stack Developer | Java
 
-About Me:
-• I build web applications using MERN stack  
-• Currently learning Data Structures and Algorithms in Java  
-• Interested in software development roles  
+About Me
 
-Tech Stack:
-• HTML, CSS, JavaScript  
-• React.js, Node.js, Express.js  
-• MongoDB, Firebase  
-• Java, Python, C, C++  
-• SQL, DBMS, Operating Systems  
-• Linux (Ubuntu)  
-• Git, GitHub  
-• Basic Big Data Concepts  
-• GIS (Fundamentals)  
+- Passionate about building scalable full-stack web applications.
+- Interested in software engineering and AI-powered applications.
+- Currently learning Data Structures and Algorithms in Java.
+- Seeking Software Engineer and Full Stack Development internship opportunities.
 
-Projects:
-• Food Delivery App (MERN)  
-• Lost & Found Portal (React + Firebase)  
-• Task Workspace (Task Management App)  
+Technical Skills
 
-LinkedIn: https://www.linkedin.com/in/sujal-shejwal-76b369259  
-GitHub: https://github.com/Sujal-Shejwal
+Languages
+- Java
+- JavaScript
+- SQL
+- C++
+- Python
+
+Frontend
+- React.js
+- Vite
+- Tailwind CSS
+
+Backend
+- Node.js
+- Express.js
+
+Databases
+- PostgreSQL
+- MongoDB
+- Firebase
+
+Tools & Technologies
+- Git
+- GitHub
+- Vercel
+- Cloudinary
+- Clerk Authentication
+
+Areas of Interest
+
+- Full Stack Development
+- Artificial Intelligence
+- REST API Development
+- Database Design
+- Problem Solving
+
+Connect
+
+LinkedIn
+https://www.linkedin.com/in/sujal-shejwal-76b369259/
+
+GitHub
+https://github.com/Sujal-Shejwal
