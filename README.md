@@ -1,6 +1,6 @@
 Hi, I'm Sujal Shejwal
 
-B.Tech Information Technology Student | Full Stack Developer | Java
+B.Tech Information Technology Student 
 
 About Me
 
