@@ -38,6 +38,7 @@ Tools & Technologies
 - Vercel
 - Cloudinary
 - Clerk Authentication
+- Postman
 
 Areas of Interest
 
