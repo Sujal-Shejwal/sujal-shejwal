@@ -1,6 +1,6 @@
 Hi, I'm Sujal Shejwal
 
-B.Tech Information Technology Student 
+Final Year B.Tech Information Technology Student 
 
 About Me
 
