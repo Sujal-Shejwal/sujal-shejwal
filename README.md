@@ -1,14 +1,14 @@
-# Hi, I'm Sujal Shejwal 👋
+# 👋 Hi, I'm Sujal Shejwal
 
-### Final Year B.Tech Information Technology Student
+### Final Year B.Tech Information Technology Student | Software Engineer | Full-Stack & AI Enthusiast
 
-I'm passionate about building scalable full-stack applications and solving real-world problems through software.
+I'm passionate about building scalable full-stack applications, backend systems, and AI-powered solutions.
 
 - 💻 Interested in Software Engineering & Full-Stack Development
 - 🤖 Exploring Generative AI, RAG & AI-powered applications
 - 🧠 Currently strengthening Data Structures & Algorithms in Java
 - 🗄️ Strong interest in SQL, DBMS & Backend Development
-- 🚀 Always learning and building new projects
+- 🚀 Always learning, building and solving real-world problems
 
 ---
 
@@ -25,10 +25,10 @@ I'm passionate about building scalable full-stack applications and solving real-
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### ⚙️ Backend
 
@@ -43,6 +43,7 @@ I'm passionate about building scalable full-stack applications and solving real-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 AI / Generative AI
@@ -57,7 +58,9 @@ I'm passionate about building scalable full-stack applications and solving real-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
@@ -69,34 +72,50 @@ I'm passionate about building scalable full-stack applications and solving real-
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sujal-Shejwal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sujal-Shejwal&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI-Powered RAG Application
+### 🍔 Food Delivery App
 
-An AI-powered application using Retrieval-Augmented Generation to provide context-aware responses from a custom knowledge base.
+Full-stack food delivery web application with authentication, product management, ordering and Stripe payment integration.
 
-**Tech:** Java • Spring Boot • PostgreSQL • pgvector • Spring AI • RAG
+**Tech:** React • Node.js • Express.js • MongoDB • Stripe
 
----
-
-### 🔹 Full-Stack Web Application
-
-A full-stack web application with a React frontend and Spring Boot backend, connected through REST APIs.
-
-**Tech:** React • Spring Boot • REST APIs • PostgreSQL
+🔗 [View Repository](https://github.com/Sujal-Shejwal/food-delivery-app)
 
 ---
 
-### 🔹 AI-Powered Application
+### 🔎 Lost & Found Portal
 
-An AI-powered application integrating modern Generative AI capabilities to solve a real-world problem.
+A web application for reporting and finding lost items with real-time updates and Firebase integration.
 
-**Tech:** Java • Spring Boot • Gemini • REST API
+**Tech:** React • Firebase • JavaScript
+
+🔗 [View Repository](https://github.com/Sujal-Shejwal/lost-found-portal)
+
+---
+
+### 🤖 QWERT.ai
+
+AI-powered application focused on integrating Generative AI capabilities into a practical software solution.
+
+**Tech:** Java • Spring Boot • AI • REST APIs
+
+🔗 [View Repository](https://github.com/Sujal-Shejwal/QWERT.ai)
+
+---
+
+### 🧠 Adaptive AI Tutor
+
+An AI-powered learning application designed to provide personalized and adaptive learning experiences.
+
+**Tech:** Java • Spring Boot • React • AI • PostgreSQL
+
+🔗 [View Repository](https://github.com/Sujal-Shejwal/adaptive-ai-tutor)
 
 ---
 
@@ -104,12 +123,14 @@ An AI-powered application integrating modern Generative AI capabilities to solve
 
 I'm currently exploring:
 
-- 🔹 Retrieval-Augmented Generation (RAG)
-- 🔹 Vector Databases & pgvector
-- 🔹 Spring AI
-- 🔹 Google Gemini
-- 🔹 AI-powered applications
-- 🔹 LLM-based systems
+- 🧠 Generative AI
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🗄️ Vector Databases
+- ⚡ pgvector
+- 🌱 Spring AI
+- ✨ Google Gemini
+- 🔗 LLM-powered applications
+- 🚀 AI-powered backend systems
 
 ---
 
@@ -123,16 +144,7 @@ I'm currently exploring:
 - 📌 REST APIs
 - 📌 Backend Development
 - 📌 Software Engineering
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎓 Final Year B.Tech Information Technology Student
-- 💻 Built multiple full-stack applications
-- 🤖 Working on Generative AI & RAG-based applications
-- 🗄️ Hands-on experience with SQL & relational databases
-- 🚀 Continuously learning and building software projects
+- 📌 Database Design
 
 ---
 
@@ -145,6 +157,19 @@ I'm currently exploring:
 - 🔎 RAG & Vector Databases
 - 🗄️ Advanced SQL & DBMS
 - ⚙️ Backend System Design
+- 🏗️ Full-Stack Development
+
+---
+
+## 🎯 Areas of Interest
+
+- 💻 Software Engineering
+- ⚙️ Backend Development
+- 🌐 Full-Stack Development
+- 🗄️ Database & SQL
+- 🤖 Artificial Intelligence
+- ✨ Generative AI
+- 🔎 RAG Systems
 
 ---
 
@@ -156,11 +181,11 @@ I'm currently exploring:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sujal-shejwal-76b369259/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sujalshejwal03@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -169,5 +194,7 @@ I'm currently exploring:
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+
+⭐ Thanks for visiting my profile!
+
 </p>
