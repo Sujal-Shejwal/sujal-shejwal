@@ -1,12 +1,12 @@
 # Hi, I'm Sujal Shejwal 👋
 
-Final-year B.Tech Information Technology student passionate about software engineering, full-stack development, and AI-powered applications.
+Final-year B.Tech Information Technology student interested in software engineering, full-stack development, backend systems, and AI-powered applications.
 
-- 🎓 B.Tech IT Student
-- 💻 Interested in Full-Stack & Backend Development
-- 🤖 Exploring Generative AI, RAG & AI-powered applications
-- 🗄️ Strong interest in SQL, DBMS & Backend Systems
-- 🧠 Currently strengthening Data Structures & Algorithms in Java
+- B.Tech Information Technology Student
+- Full-Stack & Backend Development
+- Generative AI, RAG & AI-powered applications
+- SQL, DBMS & Database Development
+- Currently strengthening Data Structures & Algorithms in Java
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@ Final-year B.Tech Information Technology student passionate about software engin
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -31,6 +31,7 @@ Final-year B.Tech Information Technology student passionate about software engin
 
 **AI & Tools:**  
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -42,15 +43,19 @@ Final-year B.Tech Information Technology student passionate about software engin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Shejwal&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujal-Shejwal&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## Featured Projects
 
-### 🍔 Food Delivery App
+### Food Delivery App
 
-Full-stack food delivery web application with Stripe payment integration and admin panel.
+Full-stack food delivery web application with Stripe payment integration and an admin panel.
 
 **Tech:** React • Node.js • Express.js • MongoDB • Stripe
 
-### 🤖 Adaptive AI Tutor
+### Adaptive AI Tutor
 
 AI-powered learning platform designed to provide personalized learning experiences.
 
@@ -58,10 +63,10 @@ AI-powered learning platform designed to provide personalized learning experienc
 
 ## Currently Learning
 
-- ☕ Advanced Java & Spring Boot
-- 🧩 Data Structures & Algorithms
-- 🤖 Generative AI & RAG
-- 🗄️ Advanced SQL & DBMS
+- Advanced Java & Spring Boot
+- Data Structures & Algorithms
+- Generative AI & RAG
+- Advanced SQL & DBMS
 
 ## Connect With Me
 
